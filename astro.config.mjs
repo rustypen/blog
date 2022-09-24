@@ -19,7 +19,7 @@ export default defineConfig(
 				}
 			}]
 		},
-		site: 'https://rustypen.com',
+		site: 'https://rustypen.github.io/',
 		base: '/rustypen',
 		integrations: [sitemap()]
 	});
